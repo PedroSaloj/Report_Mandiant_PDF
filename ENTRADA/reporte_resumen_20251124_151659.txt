@@ -1,0 +1,126 @@
+============================================================
+REPORTE DE ANÁLISIS DE GEOLOCALIZACIÓN DE IPs
+============================================================
+Fecha y hora: 2025-11-24 15:16:59
+
+RESUMEN ESTADÍSTICO:
+--------------------
+Total de IPs analizadas: 97
+Análisis exitosos: 97
+Análisis fallidos: 0
+Tasa de éxito: 100.0%
+Países únicos encontrados: 7
+
+DISTRIBUCIÓN POR PAÍS:
+-------------------------
+
+United States (88 IPs):
+  • 18.116.239.38 - Dublin, Ohio (Amazon.com, Inc.)
+  • 18.117.109.14 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.19.14.223 - Dublin, Ohio (Amazon.com, Inc.)
+  • 104.152.52.223 - Chicago, Illinois (Rethem Hosting LLC)
+  • 18.219.47.173 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.14.86.234 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.133.84.157 - Dublin, Ohio (Amazon.com, Inc.)
+  • 18.116.239.38 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.144.239.16 - Dublin, Ohio (Amazon.com, Inc.)
+  • 18.119.11.223 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.141.153.201 - Dublin, Ohio (Amazon.com, Inc.)
+  • 18.219.37.54 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.23.59.18 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.22.234.7 - Dublin, Ohio (Amazon.com, Inc.)
+  • 18.219.47.173 - Dublin, Ohio (Amazon.com, Inc.)
+  • 13.59.120.77 - Dublin, Ohio (Amazon.com, Inc.)
+  • 18.219.193.156 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.139.58.65 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.19.240.76 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.144.120.21 - Dublin, Ohio (Amazon.com, Inc.)
+  • 3.19.223.104 - Dublin, Ohio (Amazon.com, Inc.)
+  • 18.225.7.162 - Dublin, Ohio (Amazon.com, Inc.)
+  • 45.79.214.122 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 139.144.135.236 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 45.56.72.13 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 45.33.16.187 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 104.237.132.63 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 50.116.30.65 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 198.58.117.211 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 74.207.252.24 - Fremont, California (Akamai Technologies, Inc.)
+  • 194.195.208.25 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 45.33.96.174 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 45.33.12.231 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 104.237.132.58 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 50.116.23.67 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 173.230.155.26 - Fremont, California (Akamai Technologies, Inc.)
+  • 104.237.132.65 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 194.195.208.6 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 74.207.253.160 - Fremont, California (Akamai Technologies, Inc.)
+  • 50.116.44.20 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 45.56.100.206 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 45.56.94.61 - Fremont, California (Akamai Technologies, Inc.)
+  • 45.33.7.4 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 45.56.82.11 - Fremont, California (Akamai Technologies, Inc.)
+  • 192.155.84.74 - Fremont, California (Akamai Technologies, Inc.)
+  • 50.116.23.44 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 194.195.208.213 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 45.33.88.175 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 97.107.139.94 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 172.104.5.74 - Cedar Knolls, New Jersey (Akamai Technologies)
+  • 45.79.175.85 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 139.177.206.6 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 192.155.84.147 - Fremont, California (Akamai Technologies, Inc.)
+  • 74.207.240.187 - Fremont, California (Akamai Technologies, Inc.)
+  • 96.126.106.177 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 96.126.98.168 - Fremont, California (Akamai Technologies, Inc.)
+  • 172.234.143.92 - Ashburn, Virginia (Akamai Technologies, Inc.)
+  • 172.232.186.12 - Tukwila, Washington (Akamai Technologies, Inc.)
+  • 173.230.155.151 - Fremont, California (Akamai Technologies, Inc.)
+  • 198.58.117.211 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 45.33.113.96 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 69.164.207.173 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 172.233.183.40 - Miami, Florida (Akamai Technologies, Inc.)
+  • 172.232.186.12 - Tukwila, Washington (Akamai Technologies, Inc.)
+  • 45.79.173.230 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 45.79.67.28 - Fremont, California (Akamai Technologies, Inc.)
+  • 143.42.227.223 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 50.116.44.176 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 104.237.150.123 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 162.216.16.86 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 45.33.75.28 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 173.255.247.156 - Fremont, California (Akamai Technologies, Inc.)
+  • 194.195.208.70 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 172.234.207.202 - Chicago, Illinois (Akamai Technologies, Inc.)
+  • 45.79.214.237 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 172.232.9.106 - Chicago, Illinois (Akamai Technologies, Inc.)
+  • 173.255.248.25 - Fremont, California (Akamai Technologies, Inc.)
+  • 50.116.23.178 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 45.33.96.41 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 72.14.186.195 - Richardson, Texas (Akamai Technologies, Inc.)
+  • 162.216.18.241 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 50.116.2.219 - Fremont, California (Akamai Technologies, Inc.)
+  • 97.107.134.31 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 143.42.188.111 - Cedar Knolls, New Jersey (Akamai Technologies, Inc.)
+  • 45.79.214.253 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 45.79.214.23 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 45.33.96.214 - Atlanta, Georgia (Akamai Technologies, Inc.)
+  • 96.126.98.20 - Fremont, California (Akamai Technologies, Inc.)
+
+The Netherlands (3 IPs):
+  • 45.140.222.67 - Amsterdam, North Holland (Alsycon B.V.)
+  • 217.21.193.74 - Groningen, Groningen (Osso B.V.)
+  • 45.140.222.64 - Amsterdam, North Holland (Alsycon B.V.)
+
+Germany (2 IPs):
+  • 194.180.48.148 - Berngau, Bavaria (MEVSPACE sp. z o.o.)
+  • 172.105.78.101 - Frankfurt am Main, Hesse (Akamai Technologies)
+
+China (1 IPs):
+  • 61.188.171.3 - Neijiang, Sichuan (Chinanet)
+
+Spain (1 IPs):
+  • 172.233.111.227 - Madrid, Madrid (Akamai Technologies, Inc.)
+
+Canada (1 IPs):
+  • 172.105.9.235 - Toronto, Ontario (Akamai Technologies)
+
+Singapore (1 IPs):
+  • 143.198.198.43 - Singapore, South West (DigitalOcean, LLC)
